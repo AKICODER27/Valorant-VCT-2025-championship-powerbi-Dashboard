@@ -101,16 +101,21 @@ Player Ratings
 
 📊 Dashboard Preview
 📌 Executive Dashboard
+
 <img width="1326" height="742" alt="Screenshot 2026-07-01 150542" src="https://github.com/user-attachments/assets/b9a79750-ad6e-47fc-98ff-5eafb212fbc8" />
 
 🏆 Team Performance Dashboard
+
 <img width="1312" height="733" alt="Screenshot 2026-07-01 150823" src="https://github.com/user-attachments/assets/0e12ddd8-089a-4b58-9a91-28d324c7ed0f" />
 
 👤 Player Analytics Dashboard
+
 <img width="1313" height="733" alt="Screenshot 2026-07-01 150906" src="https://github.com/user-attachments/assets/c3e913c4-f3a0-4aaa-b186-fd8f384bd54b" />
 
 🎯 Agent Analytics Dashboard
+
 <img width="1311" height="736" alt="Screenshot 2026-07-01 150923" src="https://github.com/user-attachments/assets/9065a442-c1c0-443e-8738-5c99c09705e9" />
+
 
 💡 Key Insights
 MIBR emerged as one of the highest-rated teams in the tournament.
@@ -150,4 +155,5 @@ Present insights through intuitive visualizations.
 Demonstrate end-to-end Power BI development skills.
 
 🙋‍♂️ Author
+
 Akshat Dholakia
