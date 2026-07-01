@@ -12,88 +12,147 @@ The goal of this project is to demonstrate practical Data Analytics, Business In
 📊 Executive Dashboard📊
 
 Total Matches
+
 Total Teams
+
 Total Players
+
 Total Kills
+
 Average Rating
+
 Average ACS
+
 Top 10 Players by Average Rating
+
 Top 10 Teams by Rating
+
 Agent Pick Rate Distribution
+
 Player Performance Matrix (ACS vs Rating)
+
 Interactive Slicers for Team, Player and Agent
 
 
 🏆 Team Performance Dashboard🏆
 
 Team KPIs
+
 Team Kill Distribution
+
 Average ACS by Team
+
 Kills vs Deaths Analysis
+
 Event Filter
+
 Team Filter
+
 Side Filter (Attacker/Defender)
 
 
 👤 Player Analytics Dashboard👤
 
 Average ACS by Player
+
 Total Players
+
 Highest ACS
+
 Highest ADR
+
 Highest Rated Player
+
 Total Kills by Player
+
 KDA Comparison
+
 Complete Player Statistics Matrix
+
 Team, Player and Agent Filters
 
 
 🎯 Agent Analytics Dashboard🎯
 
 Total Agents
+
 Most Picked Agent
+
 Highest Rated Agent
+
 Highest ACS Agent
+
 Highest KDA Agent
+
 Agent Pick Distribution
+
 Agent Role Distribution
+
 Top Agents by Average ACS
+
 Agent Performance Matrix
+
 Team and Role Filters
 
 
 📈 KPIs Used📈
 
 Total Matches
+
 Total Teams
+
 Total Players
+
 Total Agents
+
 Total Kills
+
 Average Rating
+
 Average ACS
+
 Average ADR
+
 Average KAST
+
 Highest Rated Player
+
 Highest ACS Player
+
 Highest ADR Player
+
 Most Picked Agent
+
 Highest Rated Agent
+
 Highest ACS Agent
+
 Highest KDA Agent
+
 
 
 🛠️ Tools & Technologies🛠️ 
 
 Microsoft Power BI Desktop
+
 Microsoft Excel
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Data Modeling
+
 Interactive Slicers
+
 KPI Cards
+
 Bar Charts
+
 Scatter Charts
+
 Donut Charts
+
 Matrix Tables
 
 
@@ -103,6 +162,7 @@ https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset
 
 
 📊 Dashboard Preview
+
 📌 Executive Dashboard
 
 <img width="1326" height="742" alt="Screenshot 2026-07-01 150542" src="https://github.com/user-attachments/assets/b9a79750-ad6e-47fc-98ff-5eafb212fbc8" />
@@ -121,6 +181,7 @@ https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset
 
 
 💡 Key Insights
+
 MIBR emerged as one of the highest-rated teams in the tournament.
 
 DRX recorded the highest total kills among all teams.
@@ -139,23 +200,36 @@ Teams with stronger ACS and kill counts consistently performed better.
 
 💼 Skills Demonstrated
 Data Cleaning
+
 Data Transformation
+
 Data Modeling
+
 DAX Measures
+
 Dashboard Design
+
 KPI Development
+
 Interactive Reporting
-Business Intelligence
+
 Data Visualization
-Storytelling with Data
+
 
 🎯 Project Objectives
+
 Build an interactive esports analytics dashboard.
+
 Analyze tournament performance using statistical metrics.
+
 Compare player and team performance.
+
 Understand agent selection trends.
+
 Present insights through intuitive visualizations.
+
 Demonstrate end-to-end Power BI development skills.
+
 
 🙋‍♂️ Author
 
