@@ -34,6 +34,7 @@ Player Performance Matrix (ACS vs Rating)
 Interactive Slicers for Team, Player and Agent
 
 
+
 🏆 Team Performance Dashboard🏆
 
 Team KPIs
@@ -49,6 +50,7 @@ Event Filter
 Team Filter
 
 Side Filter (Attacker/Defender)
+
 
 
 👤 Player Analytics Dashboard👤
@@ -72,6 +74,7 @@ Complete Player Statistics Matrix
 Team, Player and Agent Filters
 
 
+
 🎯 Agent Analytics Dashboard🎯
 
 Total Agents
@@ -93,6 +96,7 @@ Top Agents by Average ACS
 Agent Performance Matrix
 
 Team and Role Filters
+
 
 
 📈 KPIs Used📈
@@ -131,6 +135,7 @@ Highest KDA Agent
 
 
 
+
 🛠️ Tools & Technologies🛠️ 
 
 Microsoft Power BI Desktop
@@ -156,9 +161,11 @@ Donut Charts
 Matrix Tables
 
 
+
 📂 Dataset
 
 https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset
+
 
 
 📊 Dashboard Preview
@@ -180,6 +187,7 @@ https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset
 <img width="1311" height="736" alt="Screenshot 2026-07-01 150923" src="https://github.com/user-attachments/assets/9065a442-c1c0-443e-8738-5c99c09705e9" />
 
 
+
 💡 Key Insights
 
 MIBR emerged as one of the highest-rated teams in the tournament.
@@ -197,6 +205,8 @@ Yoru delivered the highest Average ACS.
 Higher ACS generally correlated with higher player ratings.
 
 Teams with stronger ACS and kill counts consistently performed better.
+
+
 
 💼 Skills Demonstrated
 Data Cleaning
@@ -216,6 +226,8 @@ Interactive Reporting
 Data Visualization
 
 
+
+
 🎯 Project Objectives
 
 Build an interactive esports analytics dashboard.
@@ -229,6 +241,7 @@ Understand agent selection trends.
 Present insights through intuitive visualizations.
 
 Demonstrate end-to-end Power BI development skills.
+
 
 
 🙋‍♂️ Author
