@@ -8,7 +8,9 @@ The goal of this project is to demonstrate practical Data Analytics, Business In
 
 🚀 Features
 
+
 📊 Executive Dashboard📊
+
 Total Matches
 Total Teams
 Total Players
@@ -21,7 +23,9 @@ Agent Pick Rate Distribution
 Player Performance Matrix (ACS vs Rating)
 Interactive Slicers for Team, Player and Agent
 
+
 🏆 Team Performance Dashboard🏆
+
 Team KPIs
 Team Kill Distribution
 Average ACS by Team
@@ -30,7 +34,9 @@ Event Filter
 Team Filter
 Side Filter (Attacker/Defender)
 
+
 👤 Player Analytics Dashboard👤
+
 Average ACS by Player
 Total Players
 Highest ACS
@@ -41,7 +47,9 @@ KDA Comparison
 Complete Player Statistics Matrix
 Team, Player and Agent Filters
 
+
 🎯 Agent Analytics Dashboard🎯
+
 Total Agents
 Most Picked Agent
 Highest Rated Agent
@@ -53,7 +61,9 @@ Top Agents by Average ACS
 Agent Performance Matrix
 Team and Role Filters
 
+
 📈 KPIs Used📈
+
 Total Matches
 Total Teams
 Total Players
@@ -71,7 +81,9 @@ Highest Rated Agent
 Highest ACS Agent
 Highest KDA Agent
 
+
 🛠️ Tools & Technologies🛠️ 
+
 Microsoft Power BI Desktop
 Microsoft Excel
 Power Query
@@ -84,20 +96,11 @@ Scatter Charts
 Donut Charts
 Matrix Tables
 
-📂 Dataset
-The dataset contains tournament statistics including:
 
-Match Details
-Team Statistics
-Player Statistics
-Agent Statistics
-Kills
-Deaths
-Assists
-ADR
-ACS
-KAST
-Player Ratings
+📂 Dataset
+
+https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset
+
 
 📊 Dashboard Preview
 📌 Executive Dashboard
